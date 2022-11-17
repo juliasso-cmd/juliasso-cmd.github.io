@@ -3,15 +3,15 @@
 }
 
 body{ 
-    background-color: orange;
+background-color: lightgrey;
 }
 
 img {
     width: 200px;
     padding: 2px;
-    /* background-color: rgb(70, 70, 70); */
+    background-color: rgb(155, 154, 154);
     border-radius: 50%;
-    border: 2px double black;
+    /* border: 2px double black; */
 }
 
 hr{
